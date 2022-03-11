@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @connorcrookston
 - 👀 I’m interested in - all things tech, particularly crypto and blockchain technologies
-- 🌱 I’m currently - a graduate apprentice working with Barclays and studying software engineering and Glasgow University
+- 🌱 I’m currently - a graduate apprentice working with Barclays and studying software engineering at Glasgow University
 - 📫 How to reach me - twitter @connorcrookston
 
 <!---
